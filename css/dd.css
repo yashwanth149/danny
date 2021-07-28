@@ -1,0 +1,58 @@
+#sec{
+    width: 650px;
+    margin-left: 10px;
+    padding: 6px; 
+}
+#sec td{
+    border:2px solid lightslategrey;border-collapse:collapse;padding: 6px; 
+}
+#sec th{
+    border: 2px solid rgb(128, 115, 115);
+    background-color: grey;
+}
+#sec td{
+    padding-left: 8px;
+}
+#table{
+    border: 2px solid grey;
+    background-color: #D2D2D9;
+    border-collapse: collapse;
+}
+#table tr{
+    font-size: 14px;
+}
+a:link{
+    text-decoration:none;
+    color:lightslategray;
+    font-weight: bold;
+    font-size: 1.02em;
+}
+a:visited{
+    text-decoration:none;
+    color:lightsalmon;
+    background-color:transparent;
+    font-weight: normal;
+}
+a:hover{
+    text-decoration: underline;
+    color: #003f64;
+}
+
+body {
+    line-height: 1.4rem;
+    font-size: .96rem;
+    color: #3d3d3d;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    background-color:  #3d3d3d;
+    color: red;
+    padding: 1.4rem;
+    margin: -8.4px;
+    padding-left: 1.6rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+
+
