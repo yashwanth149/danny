@@ -14,12 +14,11 @@ body {
     margin-top: 5rem;
 }
 #sec{
-    width: 650px;
-    margin-left: 10px;
+    width: 100%;
     padding: 6px; 
 }
 #sec td{
-    border:2px solid lightslategrey;
+    border:1px solid #eee;
     border-collapse:collapse;
     padding: 6px; 
 }
@@ -80,6 +79,17 @@ h1 {
 }
 .gap img {
     border-radius: .4rem;
+}
+.sec {
+    max-width: 100%;
+}
+@media screen and (max-width:600px) {
+    .sec {
+        width: 15.99%;
+        padding: 0;
+        margin: 0;
+        overflow: auto;
+    }
 }
 
 
