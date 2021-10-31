@@ -10,8 +10,7 @@ body {
     margin: 0;
 }
 .wrapper {
-    padding-left: 6px;
-    margin-top: 5rem;
+    margin: 5rem 9px 0 9px ;
 }
 #sec{
     width: 100%;
